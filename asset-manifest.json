@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/PixelArt/static/js/app.b242fda4.chunk.js",
+    "app.js.map": "/PixelArt/static/js/app.b242fda4.chunk.js.map",
+    "runtime~app.js": "/PixelArt/static/js/runtime~app.4692cc2f.js",
+    "runtime~app.js.map": "/PixelArt/static/js/runtime~app.4692cc2f.js.map",
+    "static/js/2.24037697.chunk.js": "/PixelArt/static/js/2.24037697.chunk.js",
+    "static/js/2.24037697.chunk.js.map": "/PixelArt/static/js/2.24037697.chunk.js.map",
+    "fonts/AntDesign.ttf": "/PixelArt/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/PixelArt/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/PixelArt/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/PixelArt/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/PixelArt/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/PixelArt/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/PixelArt/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/PixelArt/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/PixelArt/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/PixelArt/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/PixelArt/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/PixelArt/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/PixelArt/favicon-16.png",
+    "favicon-32.png": "/PixelArt/favicon-32.png",
+    "favicon.ico": "/PixelArt/favicon.ico",
+    "index.html": "/PixelArt/index.html",
+    "manifest.json": "/PixelArt/manifest.json",
+    "serve.json": "/PixelArt/serve.json",
+    "static/js/2.24037697.chunk.js.LICENSE.txt": "/PixelArt/static/js/2.24037697.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/PixelArt/static/media/background.814445f7.jpg",
+    "static/media/color-circle.png": "/PixelArt/static/media/color-circle.16251760.png",
+    "static/media/hsv_triangle_mask.png": "/PixelArt/static/media/hsv_triangle_mask.851ea126.png",
+    "static/media/pixelArt.jpg": "/PixelArt/static/media/pixelArt.662e38a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4692cc2f.js",
+    "static/js/2.24037697.chunk.js",
+    "static/js/app.b242fda4.chunk.js"
+  ]
+}
