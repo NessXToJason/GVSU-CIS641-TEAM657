@@ -1,6 +1,9 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://nessxtojason.github.io/GVSU-CIS641-TEAM657/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -23,7 +26,8 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "gh-pages": "^3.2.3"
   },
   "private": true
 }
