@@ -4,6 +4,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "build": "webpack --config webpack.config.js",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
