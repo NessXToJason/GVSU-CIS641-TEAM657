@@ -25,4 +25,4 @@ This application allows the users to express their creativity through pixelized 
 
 ## Run Instructions
 
-* An Expo link to run the app will be added here.
+* A demo of this app can be used by following [this link](https://expo.dev/@jason-truskowski/pixelart) and scanning the QR code or following the link on the device.
